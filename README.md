@@ -10,4 +10,6 @@ The analysis looked at only videos from Great Britain and asked the following qu
 
 This project was particulary of interest to me since I have loved YouTube since I was 14 years old and so uncovering insights into the trending videos was of particular interest. 
 
+Furthermore, YouTube is very useful in data analytics since it is such a widely used platform, especially in the field of marketing. Companies are always looking to find useful insights and make data driven decisions based on the platforms enormous data. 
+
 For question 3 I use Multiple Linear Regression. The libraries I used were Seaborn and Matplotlib. 
